@@ -1,5 +1,5 @@
 ### Portfolio
-🖱️ original: [tripleboba.github.io](https://tripleboba.github.io) <br>
-📌 custom domain: [phganh.dev](https://phganh.dev)
+🖱️ at: [phganh.dev](https://phganh.dev) <br>
+📌 github page: [tripleboba.github.io](https://tripleboba.github.io)
 <br>
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<smal>building with React</small>
